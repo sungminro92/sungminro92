@@ -13,7 +13,7 @@
 - 💃  I love dancing.
 - 🎵  I thrive in music
 - 🚴‍♀️  I enjoy riding bicycles, 🏃‍♀️ running, 🎾 tennis and many more!
-- 📫  You can reach me ... sungminro92@gmail.com
+- 📫  You can reach me ... sungminro1992@gmail.com
 
 <!---
 sungminro92/sungminro92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
