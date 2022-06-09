@@ -1,4 +1,4 @@
-- 👋   Hi, I'm Sungmin, a designer-background front-end developer
+- 👋   Hi, I'm Sungmin Ro, a designer-minded front-end developer
 - 👩🏼‍🎓   Recently graduated with an MFA in Design and Technology from Parsons School of Design.
 - 👩🏼‍🎓   I have a solid background in Graphic & Communication Design from a BFA at School of Visual Arts in previous years.
 - 👩🏼‍💻   I also hold a certificate of completion in React Development coding course.
